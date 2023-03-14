@@ -45,6 +45,7 @@ const App = () => {
         return item;
       }
     });
+    
     setCardList(updatedCardList);
   }
 
